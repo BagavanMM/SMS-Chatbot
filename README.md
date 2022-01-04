@@ -1,3 +1,4 @@
+# The following was copy and pasted from one of Twilio's tutoirals --> added it here for easy-access
 <section class="article-content">
 
 ![Build an SMS Chatbot with Python, Flask and Twilio](https://twilio-cms-prod.s3.amazonaws.com/images/Q4PoK1FF9Dkn7rEWWbq6-n24b1NWKhf5_jFivi3US_3xfB.width-808.png)
